@@ -52,6 +52,11 @@
     <Compile Include="Async\PausingForAPeriodOfTime.cs" />
     <Compile Include="Async\ReportingProgress.cs" />
     <Compile Include="Async\ReturningCompletedTasks.cs" />
+    <Compile Include="Parallels\DynamicParallelism.cs" />
+    <Compile Include="Parallels\ParallelAggregation.cs" />
+    <Compile Include="Parallels\ParallelInvocation.cs" />
+    <Compile Include="Parallels\ParallelLINQ.cs" />
+    <Compile Include="Parallels\ParallelProcessingOfData.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
